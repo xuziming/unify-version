@@ -14,10 +14,8 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<!-- junit单元 -->
 		<junit.version>4.10</junit.version>
-		<!-- spring3低版本 -->
-		<spring3.version>3.2.3.RELEASE</spring3.version>
 		<!-- spring -->
-		<spring.version>4.1.6.RELEASE</spring.version>
+		<spring.version>4.3.17.RELEASE</spring.version>
 		<!-- spring切面织入 -->
 		<aspectjweaver.version>1.8.9</aspectjweaver.version>
 		<!-- mybatis -->
