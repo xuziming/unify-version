@@ -47,7 +47,7 @@
 		<!-- office组件 -->
 		<poi.version>3.10-FINAL</poi.version>
 		<!-- 阿里巴巴 DUBBO -->
-		<dubbo.version>2.5.4</dubbo.version>
+		<dubbo.version>2.5.4-SNAPSHOT</dubbo.version>
 		<!-- zookeeper -->
 		<zookeeper.version>3.4.9</zookeeper.version>
 		<!-- zk客户端 -->
