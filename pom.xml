@@ -13,7 +13,7 @@
 		<!-- 项目源文件编码形式 -->
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<!-- junit单元 -->
-		<junit.version>4.10</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<!-- spring -->
 		<spring.version>4.3.18.RELEASE</spring.version>
 		<!-- spring切面织入 -->
