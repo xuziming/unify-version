@@ -37,7 +37,7 @@
 		<!-- commons collections -->
 		<commons-collections.version>3.2.1</commons-collections.version>
 		<!-- commons beanutils -->
-		<commons-beanutils.version>1.9.2</commons-beanutils.version>
+		<commons-beanutils.version>1.9.4</commons-beanutils.version>
 		<!-- commons httpclient -->
 		<commons-httpclient.version>3.1</commons-httpclient.version>
 		<!-- commons codec -->
