@@ -53,7 +53,7 @@
 		<!-- zk客户端 -->
 		<zkclient.version>0.1</zkclient.version>
 		<!-- apache httpclient -->
-		<httpclient.version>4.5.1</httpclient.version>
+		<httpclient.version>4.5.13</httpclient.version>
 		<!-- redis客户端版本 -->
 		<jedis.version>2.7.2</jedis.version>
 		<!-- logback日志版本 -->
